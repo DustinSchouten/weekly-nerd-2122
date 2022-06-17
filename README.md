@@ -9,7 +9,7 @@
   * [Krijn Hoetmer (23 maart 2022)](#krijn-hoetmer-23-maart-2022)
   * [Vitaly Friedman (30 maart 2022)](#vitaly-friedman-30-maart-2022)
   * [Chanel Mepchen (13 april 2022)](#chanel-mepchen-13-april-2022)
-  * [Léonie Watson (20 april 2022)](#l-onie-watson-20-april-2022)
+  * [Léonie Watson (20 april 2022)](#leonie-watson-20-april-2022)
   * [Rian Rietveld (28 april 2022)](#rian-rietveld-28-april-2022)
 - [Weekly Mingle](#weekly-mingle)
   * [Folkert-Jan, Built In Amsterdam (25 mei 2022)](#folkert-jan-built-in-amsterdam-25-mei-2022)
@@ -19,7 +19,7 @@
 - [Wetenschappelijke artikelen](#wetenschappelijke-artikelen)
   * [Artikel 1: CSS scrolling animations](#artikel-1-css-scrolling-animations)
   * [Artikel 2: Websockets met socket.io](#artikel-2-websockets-met-socketio)
-  * [Artikel 3: Hoe maak ik mijn websites beter zichtbaar voor zoekmachines?](#artikel-3-hoe-maak-ik-mijn-websites-beter-zichtbaar-voor-zoekmachines-)
+  * [Artikel 3: Hoe maak ik mijn websites beter zichtbaar voor zoekmachines?](#artikel-3-hoe-maak-ik-mijn-websites-beter-zichtbaar-voor-zoekmachines)
 
 ## Vooraf
 Tijdens de minor Web Design and Development zijn er een aantal gastcolleges (weekly nerds) gehouden Voor het schrijven van een reflectie bij iedere weekly nerd heb ik eerst een korte introductie gegeven over de gastspreker en hetgeen er in de weekly nerd verteld is. Dit geeft voor mij de basis om er een goed onderbouwde reflectie over te schrijven. Ditzelfde principe heb ik bij de weekly mingles toegepast. Achteraan dit document staan de drie geschreven artikelen.
