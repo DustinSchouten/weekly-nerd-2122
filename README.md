@@ -1,47 +1,44 @@
 # Weekly Nerd
 
 ## Table Of Contents
+- [Vooraf](#vooraf)
 - [Weekly Nerd](#weekly-nerd)
-  * [Vooraf](#vooraf)
-    + [Weekly Nerd](#weekly-nerd-1)
-      - [Cyd Stumpel (10 februari 2022)](#cyd-stumpel-10-februari-2022)
-      - [Alvaro Montoro (16 februari 2022)](#alvaro-montoro-16-februari-2022)
-      - [Fenna de Wilde (2 maart 2022)](#fenna-de-wilde-2-maart-2022)
-      - [Krijn Hoetmer (23 maart 2022)](#krijn-hoetmer-23-maart-2022)
-      - [Vitaly Friedman (30 maart 2022)](#vitaly-friedman-30-maart-2022)
-      - [Chanel Mepchen (13 april 2022)](#chanel-mepchen-13-april-2022)
-      - [Léonie Watson (20 april 2022)](#l-onie-watson-20-april-2022)
-      - [Rian Rietveld (28 april 2022)](#rian-rietveld-28-april-2022)
-    + [Weekly Mingle](#weekly-mingle)
-      - [Folkert-Jan, Built In Amsterdam (25 mei 2022)](#folkert-jan--built-in-amsterdam--25-mei-2022)
-      - [Gavin Ligtharn, LabelA (1 juni 2022)](#gavin-ligtharn--labela--1-juni-2022)
-      - [Menno de Vries en Gijs Laarman, DEPT (8 juni 2022)](#menno-de-vries-en-gijs-laarman--dept--8-juni-2022)
-      - [De Voorhoede (15 juni 2022)](#de-voorhoede--15-juni-2022)
-    + [Wetenschappelijke artikelen](#wetenschappelijke-artikelen)
-      - [Artikel 1: CSS scrolling animations](#artikel-1--css-scrolling-animations)
-      - [Artikel 2: Websockets met socket.io](#artikel-2--websockets-met-socketio)
-      - [Artikel 3: Hoe maak ik mijn websites beter zichtbaar voor zoekmachines?](#artikel-3--hoe-maak-ik-mijn-websites-beter-zichtbaar-voor-zoekmachines)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+  * [Cyd Stumpel (10 februari 2022)](#cyd-stumpel-10-februari-2022)
+  * [Alvaro Montoro (16 februari 2022)](#alvaro-montoro-16-februari-2022)
+  * [Fenna de Wilde (2 maart 2022)](#fenna-de-wilde-2-maart-2022)
+  * [Krijn Hoetmer (23 maart 2022)](#krijn-hoetmer-23-maart-2022)
+  * [Vitaly Friedman (30 maart 2022)](#vitaly-friedman-30-maart-2022)
+  * [Chanel Mepchen (13 april 2022)](#chanel-mepchen-13-april-2022)
+  * [Léonie Watson (20 april 2022)](#l-onie-watson-20-april-2022)
+  * [Rian Rietveld (28 april 2022)](#rian-rietveld-28-april-2022)
+- [Weekly Mingle](#weekly-mingle)
+  * [Folkert-Jan, Built In Amsterdam (25 mei 2022)](#folkert-jan-built-in-amsterdam-25-mei-2022)
+  * [Gavin Ligtharn, LabelA (1 juni 2022)](#gavin-ligtharn-labela-1-juni-2022)
+  * [Menno de Vries en Gijs Laarman, DEPT (8 juni 2022)](#menno-de-vries-en-gijs-laarman-dept-8-juni-2022)
+  * [De Voorhoede (15 juni 2022)](#de-voorhoede-15-juni-2022)
+- [Wetenschappelijke artikelen](#wetenschappelijke-artikelen)
+  * [Artikel 1: CSS scrolling animations](#artikel-1-css-scrolling-animations)
+  * [Artikel 2: Websockets met socket.io](#artikel-2-websockets-met-socketio)
+  * [Artikel 3: Hoe maak ik mijn websites beter zichtbaar voor zoekmachines?](#artikel-3-hoe-maak-ik-mijn-websites-beter-zichtbaar-voor-zoekmachines-)
 
 ## Vooraf
 Tijdens de minor Web Design and Development zijn er een aantal gastcolleges (weekly nerds) gehouden Voor het schrijven van een reflectie bij iedere weekly nerd heb ik eerst een korte introductie gegeven over de gastspreker en hetgeen er in de weekly nerd verteld is. Dit geeft voor mij de basis om er een goed onderbouwde reflectie over te schrijven. Ditzelfde principe heb ik bij de weekly mingles toegepast. Achteraan dit document staan de drie geschreven artikelen.
 
-### Weekly Nerd
+## Weekly Nerd
 
-#### Cyd Stumpel (10 februari 2022)
+### Cyd Stumpel (10 februari 2022)
 Cyd vertelde in haar presentatie welke werkzaamheden ze bij haar bedrijf verricht. Als frontender web development bouwt ze websites en andere producten voor bedrijven. Hierbij liet zij deze websites en stukken code zien. Ook vertelde ze dat ze veel overlegt met designers omdat ze niet de websites zelf ontwerpt. Deze werkzaamheden spreken mij erg aan, omdat ik zelf ook erg houd van web development en de logica die bij het coderen komt kijken. Alleen het designaspect spreekt mij iets minder aan doordat ik geen ervaring heb met photoshopprogramma’s en het liefst niet aan een bepaald design gebonden zit. Wat mij dan wel weer aansprak was het feit dat je grotendeels zelf mocht bepalen hoe de websites eruit komen te zien en welke interacties er komen na gebruikersonderzoek. Ik vind het namelijk erg leuk om erachter te komen waar de eindgebruikers tevreden van worden en om deze bepaalde functionaliteiten vervolgens te kunnen uitprogrammeren.
 
 Verder heeft zij in haar presentatie verteld dat ze bij Awwards als jury websites van designers en developers beoordeelt die de makers kunnen insturen en dat ze ook nieuwe werknemers mag begeleiden. Ook van deze functies, die veel met communicatie te maken hebben, ben ik niet zo’n fan. Al met al ben ik wel erg geïnspireerd geraakt door de mooie websites die Sid heeft laten zien.
 
-#### Alvaro Montoro (16 februari 2022)
+### Alvaro Montoro (16 februari 2022)
 Alvaro is extreem goed in het maken van CSS kunstwerken, zonder ook maar één regel JavaScript of andere programmeertalen, frameworks en librarieste gebruiken. Hij gebruikt hier enkel HTML en CSS voor. Hij gebruikt ook geen SVG images omdat deze meer opslag kosten. Zijn pakkende quote hiervoor is dan ook: ‘In a world of JS and over-engineered websites, enhace the simplicity and freshness of using plain HTML and CSS.’ Hierbij wil hij andere designers en developers laten zien dat CSS inmiddels een zeer krachtige taal is.
 
 Hij heeft ons een flink aantal codepens met CSS kunstwerken laten zien waarvan ik denk dat de meeste front-end developers dit zelfs met JavaScript of andere hulpmiddelen niet eens kunnen namaken. Dit vond ik ontzettend knap en ik was met name erg verbaasd over het feit dat je met enkel HTML en CSS ook zoveel interacties kon maken. Een voorbeeld was een werkende boter-kaas-en-eieren codepen.
 
 Dit heeft mij dan ook zeker geïnspireerd om nog meer over de taal CSS te leren. Zelf vind ik het namelijk erg leuk om in mijn vrije tijd met HTML, CSS en JavaScript (ervaring met andere technische hulpmiddelen en designprogramma’s heb ik helaas niet) web apps en games te maken (zoals 4 op een rij, pacman of een quiz app). Vaak besteedde ik hierbij de meeste aandacht aan de functionaliteiten die ik dan met JavaScript maakte en minder aandacht aan de styling. Na deze presentatie heb ik gezien dat het eigenlijk minstens zo leuk is om met jouw project ook gewoon wat meer indruk bij anderen te maken. Alleen zal ik na deze demonstratie niet proberen om alles met CSS op te lossen, omdat ik het uiteindelijk toch leuker vind om gewoon lekker te kunnen programmeren.
 
-#### Fenna de Wilde (2 maart 2022)
+### Fenna de Wilde (2 maart 2022)
 Fenna is een frontend developer met een passie voor design. Voor verschillende klanten maakt ze websites. In de presentatie heeft zij een scroll-based website aan ons laten zien die enkele zeer mooie en uitgebreide animaties bevatte. In deze website waren o.a. ook posters aanwezig die geen images waren, maar die ze zelf met HTML heeft gemaakt. 
 
 Wat ik erg interessant vond was dat er op die posters teksten waren die op basis van de brightness van de pixels een zwarte of witte kleur toegekend kregen. Een relatief donkere poster krijgt bijvoorbeeld een witte tekst. Dit heeft ze naar eigen zeggen met scripts gemaakt waarbij ze ook wat wiskunde heeft toegepast. Zelf ben ik ook goed in wiskundige vakken en houd ik er erg van om mooie projecten (zoals websites en games, zie vorige weekly nerd) te maken waarbij er vooral veel logica bij komt kijken. 
@@ -52,7 +49,7 @@ Een ander onderwerp waar haar presentatie over ging was toegankelijkheid bij web
 
 Eerlijk gezegd vind ik dit niet een van mijn favoriete bezigheden, maar ik vind dit wel belangrijk en was ook erg blij met de tips die ze ons meegaf. Dit draagt uiteindelijk toch bij aan het realiseren van een mooi product en ik ben wel iemand die houd van het totaalplaatje: een website (of een ander product) moet vooral goed functioneren maar moet ook door iedereen te gebruiken zijn en er goed uitzien.
 
-#### Krijn Hoetmer (23 maart 2022)
+### Krijn Hoetmer (23 maart 2022)
 Krijn is een freelance web developer die al ruim 20 jaar lang robuuste websites bouwt. Hij gebruikt hiervoor HTML, CSS, JavaScript en naar eigen zeggen ‘een beetje backend’.
 
 Krijn heeft in zijn presentatie een demo gegeven van zijn zelf ontwikkelde scoresysteem die hij voor zijn badmintonvereniging heeft gebouwd. Ook heeft hij d.m.v. foto’s laten zien dat zijn systeem door iedereen op de vereniging gebruikt wordt. In de badmintonzaal hangen allemaal schermen waarbij je d.m.v. het scannen van een QR-code een scorebord op je telefoon kunt bedienen. Verder heeft het systeem de mogelijkheid om d.m.v. Youtube live te gaan. Link naar zijn applicatie: https://scorenu.app.
@@ -67,10 +64,10 @@ Tot nu toe vind ik dit één van de leukste en meest interessante weekly-nerd pr
 - De technische implementatie: Krijn heeft in zijn presentatie verteld hoe je met je telefoon verbinding kunt maken met een scorescherm en een server die alle scores bijhoudt en alle informatie teruggeeft. Die server behoudt geen constante verbinding met een telefoon, maar vraagt om de zoveel tijd of er scores geüpdatet zijn en zo ja, dan geeft die server de nieuwe scores op het scherm weer. Op die manier hoef je als gebruiker niet op je telefoon nog op een soort ‘submit-button’ te geven. Naast dat dit wederom de gebruiksvriendelijkheid vergroot, heb ik er altijd al van gehouden om dit soort nieuwe (web-)technieken te leren. Uiteindelijk vind ik dit ook interessanter dan het design-aspect van webontwikkeling. Het gaat namelijk echt om de logica achter een systeem.
 - Verder vind ik het gewoon erg leuk dat het dus mogelijk is om een systeem te maken dat door een hele vereniging wordt gebruikt. En dat je hierbij gewoon live kan zien dat anderen jouw systeem gebruiken wanneer je even bij je vereniging langskomt.
 
-#### Vitaly Friedman (30 maart 2022)
+### Vitaly Friedman (30 maart 2022)
 <em>De presentatie van Vitaly Friedman heb ik helaas niet kunnen bijwonen vanwege aanhoudende hoofdpijn.</em>
 
-#### Chanel Mepchen (13 april 2022)
+### Chanel Mepchen (13 april 2022)
 Chanel heeft ons in haar presentatie verteld hoe de setup van een project (zoals een app of een website) bij Triple op het werkveld eruitziet. Hieruit bleek dat zo’n setup bij Triple (en setups bij projecten op het werkveld in het algemeen) in werkelijkheid veel geavanceerder is dan hoe hobby- of schoolprojecten zijn. Bij het ontwikkelen van een product worden bij Triple volgens Chanel een grote hoeveelheid aan tools gebruikt. Hieronder beschrijf ik ze in het kort:
 - Git voor debuggen en terugzetten naar eerdere versies en om te kunnen achterhalen wie welke code geschreven heeft.
 - NPM voor het installeren van packages (kunnen echter wel security issues veroorzaken).
@@ -89,7 +86,7 @@ Ik vind het vooral ontzettend knap dat je in een project, waarin je samenwerkt m
 
 De reden waarom het mij erg moeilijk lijkt om met deze voor mij veelal onbekende tools om te gaan is dat ik vaak merk dat mijn ‘programmeervrijheid’ een beetje wordt ontnomen als ik geforceerd allerlei frameworks en buildtools moet gebruiken om in te programmeren. Ook lijkt het me niet echt prettig dat mijn geschreven code door allerlei converters wordt gehaald. Ondanks deze aversie tegen het overmatig gebruik van al deze tools, heb ik er wel altijd van gehouden om dit soort nieuwe (web-)technieken te leren. Uiteindelijk vind ik het namelijk het allerleukste om stuk voor stuk nieuwe technieken bij hobbyprojecten in te zetten.
 
-#### Léonie Watson (20 april 2022)
+### Léonie Watson (20 april 2022)
 Léonie, die als accessibility engineer bij het W3C werkt, is blind en in haar presentatie leerde zij ons hoe wij als webdevelopers rekening konden houden met mensen die niet kunnen zien. De vraag waar zij in haar presentatie zo uitgebreid mogelijk antwoord op gaf is: “What is a pleasurable user experience for people who cannot see?”.
 
 Léonie maakt, net zoals andere blinde en slechtziende mensen, bij websites gebruik van een screen reader. In haar presentatie liet ze ons een aantal geluidsfragmenten horen. Op die manier demonstreerde ze hoe het gebruik van bepaalde webtechnieken invloed heeft op de manier waarop een screenreader de content op een website voorleest. Denk hierbij o.a. aan:
@@ -104,7 +101,7 @@ Ook andere dingen, zoals het ‘lang’ attribuut en het incorrect spellen van w
 
 Voor de rest blijf ik het noemenswaardig vinden dat Léonie, net als andere mensen met een beperking, zo goed met hun beperking om kunnen gaan. En ik vind het knap dat zij op een dusdanig vermakelijke manier ons als webdevelopers heeft bijgebracht op welke manieren wij rekening kunnen houden met deze mensen.
 
-#### Rian Rietveld (28 april 2022)
+### Rian Rietveld (28 april 2022)
 Rian Rietveld hield een gastcollege over ontwerpen voor een cognitieve stoornis (afwijking in de hersenen). In haar presentatie vertelde Rian welke soorten permanente cognitieve beperkingen (zoals ADHD of autisme) en tijdelijk cognitieve beperkingen (zoals een bepaalde gemoedstoestand of een taalbarriëre) er zijn. Hierbij vertelde ze welke invloeden deze beperkingen kunnen hebben op het gebruik van een website. Ook gaf ze hierbij een aantal tips over hoe je als ontwerper zo goed mogelijk rekening kunt houden met deze beperkingen. Een paar tips die ze hierbij gaf waren:
 - Maak teksten zo leesbaar mogelijk d.m.v. gebruik van kopjes en niet te lange teksten.
 - Zorg dat mensen op een andere manier dan opbellen contact op kunnen nemen (opbellen kan eng zijn)
@@ -114,9 +111,9 @@ Met zoals bij eerdere weekly nerds, vond ik het ook hierbij lastig om er mijn me
 - Ik houd van een duidelijke structuur en van voorspelbaarheid. Rian gaf aan dat bijvoorbeeld het gebruik van een stappenplan bij invulformulieren erg kon helpen. Bij het zien van zo’n stappenplan weet ik namelijk precies waar ik aan toe ben en dat geeft mij dan ook rust.
 - Ik heb soms moeite met (directe) sociale contacten met minder bekende mensen. Ik vond het daarom ook erg fijn dat Rian in haar presentatie aandacht besteedde aan het geven van alternatieve manieren van contact opnemen. Als ik met iemand contact moet opnemen, dan bel ik die persoon alleen op als er haast geboden is of als er geen andere optie voorhanden is.
 
-### Weekly Mingle
+## Weekly Mingle
 
-#### Folkert-Jan, Built In Amsterdam (25 mei 2022)
+### Folkert-Jan, Built In Amsterdam (25 mei 2022)
 Built In Amsterdam is een bedrijf dat is gericht op e-commerce. Het bedrijf maakt moderne webshops voor hun (veelal internationale) klanten. Volgens Folkert-Jan is het de bedoeling dat mensen, op basis van het gevoel en het merk (branding) dat hun gemaakte websites overdragen, overgaan op het doen van aankopen. De websites worden dus helemaal op maat gemaakt voor de betreffende klant. Dit is bijvoorbeeld precies het tegenovergestelde van een website als Airbnb of Bol.com doordat deze webshops helemaal gestandaardiseerd zijn.
 
 Bij Built In Amsterdam zijn hun webshops zijn erg gericht op het visuele aspect. De getoonde websites zien er modern uit en ze maken vooral veel gebruik van (side) scrolling animations. Soms laten ze zelfs op scroll gebaseerde ‘video’s’ zien. Dit zijn dan bijvoorbeeld foto’s die snel achter elkaar getoond en weggehaald worden, of dit zijn gifjes die on scroll worden afgespeeld of stopgezet worden. De websites worden gemaakt met HTML, CSS, JavaScript en soms met een framework zoals React. Voor het betalingssysteem wordt Shopify in combinaties met een paar andere diensten gebruikt.
@@ -125,14 +122,14 @@ Wat ik hiervan kan zeggen is dat ik vooral het idee (dat klanten kopen op basis 
 
 Doordat er in de presentatie vooral veel nadruk gelegd werd op de scrolling animations en doordat ik het toch erg gaaf vind hoe je ze kan gebruiken, heb ik er ook één van mijn artikelen over geschreven.
 
-#### Gavin Ligtharn, LabelA (1 juni 2022)
+### Gavin Ligtharn, LabelA (1 juni 2022)
 Bij LabelA gaven Gavin Ligtharn en Emils (Engelstalig) een korte presentatie over het bedrijf en over hun werkzaamheden. Zij ontwikkelen zowel Native als React Native applicaties. Ook maken zij Progressive Web applicaties. Ook hebben zij bij hun bedrijf een focus voor UI en UX design. De library Next.js gebruiken zij voor server-side rendering.
 
 Na de presentatie gaf hij met zijn Engels sprekende collega Emils een workshop over TypeScript. Hierin leerde hij ons hoe je datatypes vooraf kunt definiëren. Wanneer je vervolgens over een variabele in de code hovert, laat TypeScript zien welk datatype deze variabele heeft. En wanneer je je afvraagt welke functieparameters je mee moet geven, kun je over de functie heen hoveren waardoor deze alle parameternamen en datatypes in de juiste volgorde laat zien. Hierdoor ‘beschrijft’ de code als het ware zichzelf. Het veroorzaakt minder bugs en daardoor codeer je sneller. Verder vertelde Gavin uit dat bij vrijwel elk bedrijf TypeScript als standaard gebruikt wordt.
 
 Allereerst kon ik het erg waarderen dat zij de moeite namen om voor ons een workshop te organiseren. Ook het onderwerp vind ik goed gekozen omdat ik er op school tot nu toe weinig over heb gehoord terwijl het toch bijna overal in de front-end industrie als standaard gebruikt wordt. De workshop ging over hoe je datatypes bij variabelen, objecten en bij functieparameters definieert. De opdrachten vond ik leuk om te doen, maar ik denk zelf niet dat ik in mijn eigen tijd bij hobbyprojecten met TypeScript aan de slag zal gaan, omdat het voor mij niet voelt alsof het veel meerwaarde heeft.
 
-#### Menno de Vries en Gijs Laarman, DEPT (8 juni 2022)
+### Menno de Vries en Gijs Laarman, DEPT (8 juni 2022)
 In de derde weekly mingle kregen wij een presentatie van Menno en Gijs bij het bedrijf DEPT (digital agency). Zij zijn beide frontend developers en het bedrijf richt zich op alles wat te maken heeft met websites, apps, commercials en films. Het bedrijf DEPT heeft ook al eens een Webby award gewonnen.
 
 Menno en Gijs hebben, naast een introductie die eigenlijk iets meer leek op een lange commercial 😉, het grootste deel van de tijd verteld over de manier van werken die ze uitvoeren als ze een nieuwe klantopdracht krijgen. Die ging als volgt: 
@@ -147,12 +144,12 @@ Tussendoor lieten Menno en Gijs ons ook wat codevoorbeelden van klanten zien om 
 
 Zelf vond ik dit een hele leuke bijeenkomst en van de drie bezochte bedrijven de beste tot nu toe. Dat lag aan het ontvangst, de professionele maar toch gemoedelijke indruk die het bedrijf en de mensen achterlieten, de presentatie waarbij ik echt de indruk kreeg dat zij ons graag wilde hebben als potentiële collega’s en ook de gestructureerde werkwijze die ze uitvoeren. En ook de websites en commercials die zij als voorbeelden aan ons lieten zien zagen er gewoon prima uit. Dit is eigenlijk hetgeen wat ik erover kan vertellen, want in principe zijn de opzet van de weekly mingles allemaal wel een beetje hetzelfde: bedrijven die ons uitnodigen, een rondleiding geven en iets vertellen over de sfeer en de werkwijze van het bedrijf. Deze vond ik bij dit bedrijf zoals gezegd tot nu toe het beste.
 
-#### De Voorhoede (15 juni 2022)
+### De Voorhoede (15 juni 2022)
 <em>De presentatie van De Voorhoede heb ik helaas niet kunnen bijwonen vanwege aanhoudende hoofdpijn.</em>
 
-### Wetenschappelijke artikelen
+## Wetenschappelijke artikelen
 
-#### Artikel 1: CSS scrolling animations
+### Artikel 1: CSS scrolling animations
 Tijdens het bouwen van websites kunnen CSS animations worden gebruikt om jouw websites voor bezoekers wat levendiger te maken. Naast dat het er mooier uitziet, houdt het ook meer potentiële klanten langer op jouw website, waardoor de kans groter is dat ze over zullen gaan tot aankopen. Een populair fenomeen bij webdesigners zijn scrolling animations. Dat zijn animaties die getriggerd worden op het moment dat de gebruiker door de website scrolt en het te animeren element zichtbaar (in de viewport) is. Om te laten zien hoe je CSS scrolling animations kunt toepassen, heb ik hieronder een eenvoudig voorbeeld gemaakt. Ik heb een stukje HTML, CSS en JavaScript gemaakt en ik zal per onderdeel uitleggen hoe de code werkt.
 
 Allereerst de HTML. Ik heb een h1 voor de titel en daarbinnen twee sections met per section drie divs gemaakt. Elke div staat voor een vierkantje dat geanimeerd kan worden. De classes shape1 t/m 6 zijn ervoor om ieder element een eigen stijl mee te geven. In dit geval geef ik ze allemaal een andere background-color en rotation mee. Met de class animate_on_scroll geef ik in de HTML aan dat ik wil dat dit element geanimeerd wordt. Zie de HTML hieronder:
@@ -272,7 +269,7 @@ Een live demo is hier te vinden: https://codepen.io/dustinschouten/pen/RwQxjew
 Bronnen:
 - https://alvarotrigo.com/blog/css-animations-scroll/#:~:text=What%20are%20CSS%20Scroll%20Animations,text%2C%20images%2C%20and%20videos.
 
-#### Artikel 2: Websockets met socket.io
+### Artikel 2: Websockets met socket.io
 Socket.io is een JavaScript library die het mogelijk maakt om realtime informatie uit te wisselen tussen meerdere clients mogelijk maakt doormiddel van een gedeelde server. Het maakt, zoals de naam al suggereert, gebruik van websockets. Websocket is een netwerkprotocol dat communicatie over een TCP (wordt standaard gebruikt om gegevens over het internet of tussen apparaten onderling uit te wisselen) verbinding mogelijk maakt. Het websocket-protocol is niet hetzelfde als het HTTP-protocol. Bij HTTP wordt er vanuit een webbrowser een request wordt gedaan naar een webserver. Die ontvangt het request, stuurt een response naar de client terug en de client ontvangt het response. Hierna wordt de connectie weer afgebroken. Dit is het grote verschil met websockets waarbij de connectie in stand wordt gehouden, wanneer het ene apparaat een bericht verstuurt naar het andere apparaat. Deze connectie wordt pas afgebroken op het moment dat iemand de verbinding verbreekt.
 
 Socket.io is, zoals gezegd, bovenop het WebSocket-protocol gebouwd en heeft een extra voordeel: zodra de connectie onbedoeld toch afgebroken wordt, schakelt het over op HTTP long-polling. Bij HTTP long-polling probeert een server een verbinding met een client zo lang mogelijk in stand te houden, totdat de client weer verbinding maakt of er een time-outdrempel wordt bereikt.
@@ -353,7 +350,7 @@ Bronnen:
 - https://socket.io/docs/v4/
 - https://ably.com/topic/websockets-vs-http#:~:text=Unlike%20HTTP%2C%20where%20you%20have,request%2Fresponse%2Dbased%20methods.
 
-#### Artikel 3: Hoe maak ik mijn websites beter zichtbaar voor zoekmachines?
+### Artikel 3: Hoe maak ik mijn websites beter zichtbaar voor zoekmachines?
 Iedereen die voor zijn/haar bedrijf een website/webshop heeft, wil dat zoveel mogelijk potentiële klanten deze website bezoeken. Daarom is het natuurlijk belangrijk dat jouw website zo hoog mogelijk in de zoekresultaten van zoekmachines zoals Google terechtkomt. Hierbij gaat het over Search engine optimization (SEO). Maar hoe kun je daar het beste voor zorgen? Op welke (technische) aspecten moet je letten bij het ontwikkelen van jouw website zodat zoekmachines jouw website makkelijker kunnen vinden? Daar ga ik in dit artikel op in.
 
 Maar eerst even iets over webcrawlers:
