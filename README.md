@@ -7,25 +7,36 @@ Tijdens de minor Web Design and Development zijn er een aantal gastcolleges (wee
 
 #### Cyd Stumpel (10 februari 2022)
 Cyd vertelde in haar presentatie welke werkzaamheden ze bij haar bedrijf verricht. Als frontender web development bouwt ze websites en andere producten voor bedrijven. Hierbij liet zij deze websites en stukken code zien. Ook vertelde ze dat ze veel overlegt met designers omdat ze niet de websites zelf ontwerpt. Deze werkzaamheden spreken mij erg aan, omdat ik zelf ook erg houd van web development en de logica die bij het coderen komt kijken. Alleen het designaspect spreekt mij iets minder aan doordat ik geen ervaring heb met photoshopprogramma’s en het liefst niet aan een bepaald design gebonden zit. Wat mij dan wel weer aansprak was het feit dat je grotendeels zelf mocht bepalen hoe de websites eruit komen te zien en welke interacties er komen na gebruikersonderzoek. Ik vind het namelijk erg leuk om erachter te komen waar de eindgebruikers tevreden van worden en om deze bepaalde functionaliteiten vervolgens te kunnen uitprogrammeren.
+
 Verder heeft zij in haar presentatie verteld dat ze bij Awwards als jury websites van designers en developers beoordeelt die de makers kunnen insturen en dat ze ook nieuwe werknemers mag begeleiden. Ook van deze functies, die veel met communicatie te maken hebben, ben ik niet zo’n fan. Al met al ben ik wel erg geïnspireerd geraakt door de mooie websites die Sid heeft laten zien.
 
 #### Alvaro Montoro (16 februari 2022)
 Alvaro is extreem goed in het maken van CSS kunstwerken, zonder ook maar één regel JavaScript of andere programmeertalen, frameworks en librarieste gebruiken. Hij gebruikt hier enkel HTML en CSS voor. Hij gebruikt ook geen SVG images omdat deze meer opslag kosten. Zijn pakkende quote hiervoor is dan ook: ‘In a world of JS and over-engineered websites, enhace the simplicity and freshness of using plain HTML and CSS.’ Hierbij wil hij andere designers en developers laten zien dat CSS inmiddels een zeer krachtige taal is.
+
 Hij heeft ons een flink aantal codepens met CSS kunstwerken laten zien waarvan ik denk dat de meeste front-end developers dit zelfs met JavaScript of andere hulpmiddelen niet eens kunnen namaken. Dit vond ik ontzettend knap en ik was met name erg verbaasd over het feit dat je met enkel HTML en CSS ook zoveel interacties kon maken. Een voorbeeld was een werkende boter-kaas-en-eieren codepen.
+
 Dit heeft mij dan ook zeker geïnspireerd om nog meer over de taal CSS te leren. Zelf vind ik het namelijk erg leuk om in mijn vrije tijd met HTML, CSS en JavaScript (ervaring met andere technische hulpmiddelen en designprogramma’s heb ik helaas niet) web apps en games te maken (zoals 4 op een rij, pacman of een quiz app). Vaak besteedde ik hierbij de meeste aandacht aan de functionaliteiten die ik dan met JavaScript maakte en minder aandacht aan de styling. Na deze presentatie heb ik gezien dat het eigenlijk minstens zo leuk is om met jouw project ook gewoon wat meer indruk bij anderen te maken. Alleen zal ik na deze demonstratie niet proberen om alles met CSS op te lossen, omdat ik het uiteindelijk toch leuker vind om gewoon lekker te kunnen programmeren.
 
 #### Fenna de Wilde (2 maart 2022)
 Fenna is een frontend developer met een passie voor design. Voor verschillende klanten maakt ze websites. In de presentatie heeft zij een scroll-based website aan ons laten zien die enkele zeer mooie en uitgebreide animaties bevatte. In deze website waren o.a. ook posters aanwezig die geen images waren, maar die ze zelf met HTML heeft gemaakt. 
+
 Wat ik erg interessant vond was dat er op die posters teksten waren die op basis van de brightness van de pixels een zwarte of witte kleur toegekend kregen. Een relatief donkere poster krijgt bijvoorbeeld een witte tekst. Dit heeft ze naar eigen zeggen met scripts gemaakt waarbij ze ook wat wiskunde heeft toegepast. Zelf ben ik ook goed in wiskundige vakken en houd ik er erg van om mooie projecten (zoals websites en games, zie vorige weekly nerd) te maken waarbij er vooral veel logica bij komt kijken. 
+
 Later in de presentatie liet Fenna ook een aantal animaties zien waarbij ze vertelde dat dit viel onder ‘generated art’. Dat houdt in dat de ‘kunst’ (in dit geval de CSS-animaties) door computers d.m.v. wiskunde en algoritmes wordt gegenereerd waarbij de inbreng van mensen beperkt is. Ook dit vond ik interessant om te zien en ik zou ook graag te weten willen komen hoe deze algoritmes in zijn werk gaan.
+
 Een ander onderwerp waar haar presentatie over ging was toegankelijkheid bij websites. Ze vertelde dat ze op school veel leerde over het belang van toegankelijkheid, maar dat ze tijdens stages en op het werkveld merkte dat daar helemaal niet zoveel aandacht aan werd besteed. Dit vond ik erg vreemd omdat je zou verwachten dat een bedrijf er alles aan zou doen om hun website voor zoveel mogelijk (potentiële) klanten toegankelijk te maken. Maar dit blijkt in de praktijk dus vaak niet het geval. Hierna kwam ze met wat tips over toegankelijkheid zoals reduce-motion, een aria-label voor screenreaders en focus state bij tabs. Ook kwam ze met een quote waar ik het 100% mee eens was: “Wat is de waarde van een website die alleen maar mooi is?”.
+
 Eerlijk gezegd vind ik dit niet een van mijn favoriete bezigheden, maar ik vind dit wel belangrijk en was ook erg blij met de tips die ze ons meegaf. Dit draagt uiteindelijk toch bij aan het realiseren van een mooi product en ik ben wel iemand die houd van het totaalplaatje: een website (of een ander product) moet vooral goed functioneren maar moet ook door iedereen te gebruiken zijn en er goed uitzien.
 
 #### Krijn Hoetmer (23 maart 2022)
 Krijn is een freelance web developer die al ruim 20 jaar lang robuuste websites bouwt. Hij gebruikt hiervoor HTML, CSS, JavaScript en naar eigen zeggen ‘een beetje backend’.
+
 Krijn heeft in zijn presentatie een demo gegeven van zijn zelf ontwikkelde scoresysteem die hij voor zijn badmintonvereniging heeft gebouwd. Ook heeft hij d.m.v. foto’s laten zien dat zijn systeem door iedereen op de vereniging gebruikt wordt. In de badmintonzaal hangen allemaal schermen waarbij je d.m.v. het scannen van een QR-code een scorebord op je telefoon kunt bedienen. Verder heeft het systeem de mogelijkheid om d.m.v. Youtube live te gaan. Link naar zijn applicatie: https://scorenu.app.
+
 Krijn heeft verder in zijn verhaal ook verteld dat hij zijn applicatie heeft laten testen bij verschillende gebruikers. Hierbij wilde hij achterhalen hoe de applicatie gebruikt wordt door anderen en heeft hij een hoop feedback gekregen.
+
 Uiteindelijk heeft hij ook een aantal lessen geleerd tijdens het ontwikkelen van websites in het algemeen, zoals het instant laden van HTML (progressive enhancement) en het feit dat alles wat je als developer maakt misbruikt kan wordt door gebruikers. Zijn conclusie is dan ook: ‘een web app is nooit echt af want er worden altijd weer aanpassingen gedaan’.
+
 Tot nu toe vind ik dit één van de leukste en meest interessante weekly-nerd projecten die we hebben gehad. Hier heb ik een paar redenen voor:
 - De app is erg minimalistisch: Op het scherm worden enkel de namen van de spelers en bijbehorende scores getoond en op het bedieningspaneel kun je de scores updaten, kleuren van de namen aanpassen en de volgorde van de banen wisselen. Zelf houd ik erg van minimalisme bij websites en niet van websites en apps waarbij er veel extra overbodige functionaliteiten zijn.
 - De gebruiksvriendelijkheid: Als gebruiker hoef je op je telefoon niet in te loggen, hoef je geen apps te downloaden en hoef je ook geen ingewikkelde verbindingen op te zetten. Je hoeft enkel de QR-code te scannen. Ik vind het erg knap dat je een dusdanig ingewikkeld systeem zo simpel door een gebruiker kunt laten bedienen.
@@ -47,19 +58,26 @@ Chanel heeft ons in haar presentatie verteld hoe de setup van een project (zoals
 - BABEL om JavaScript te converteren zodat ook oudere browsers het kunnen interpreteren.
 - Azure en Azure Devops om de projecten live te zetten.
 - Dev/acc/prod zodat klanten eerst de website kunnen testen en accepteren, voordat deze live gaat.
+
 Chanel was in haar presentatie, in tegenstelling tot de eerdere weekly nerds waarin de gasten vaak trots hun zelfgemaakte websites/projecten presenteerden, vooral erg informatief. Hierdoor vind ik het was lastig om er een eigen mening over te kunnen vormen.
+
 Ik vind het vooral ontzettend knap dat je in een project, waarin je samenwerkt met meerdere developers, met zo’n verscheidenheid aan tools alsnog zo goed zulke projecten kan opzetten. Dit klinkt misschien raar omdat hulpmiddelen als React, TypeScript en SASS juist ervoor bedoeld zijn om tijd te besparen en om het leven als ontwikkelaar makkelijker te maken.
+
 De reden waarom het mij erg moeilijk lijkt om met deze voor mij veelal onbekende tools om te gaan is dat ik vaak merk dat mijn ‘programmeervrijheid’ een beetje wordt ontnomen als ik geforceerd allerlei frameworks en buildtools moet gebruiken om in te programmeren. Ook lijkt het me niet echt prettig dat mijn geschreven code door allerlei converters wordt gehaald. Ondanks deze aversie tegen het overmatig gebruik van al deze tools, heb ik er wel altijd van gehouden om dit soort nieuwe (web-)technieken te leren. Uiteindelijk vind ik het namelijk het allerleukste om stuk voor stuk nieuwe technieken bij hobbyprojecten in te zetten.
 
 #### Léonie Watson (20 april 2022)
 Léonie, die als accessibility engineer bij het W3C werkt, is blind en in haar presentatie leerde zij ons hoe wij als webdevelopers rekening konden houden met mensen die niet kunnen zien. De vraag waar zij in haar presentatie zo uitgebreid mogelijk antwoord op gaf is: “What is a pleasurable user experience for people who cannot see?”.
+
 Léonie maakt, net zoals andere blinde en slechtziende mensen, bij websites gebruik van een screen reader. In haar presentatie liet ze ons een aantal geluidsfragmenten horen. Op die manier demonstreerde ze hoe het gebruik van bepaalde webtechnieken invloed heeft op de manier waarop een screenreader de content op een website voorleest. Denk hierbij o.a. aan:
 - het gebruik van het <html lang="en"> attribuut zodat de screenreader de content met het juiste accent voorleest.
 - het gebruik van de juiste interpunctie voor de content.
 - het correct toepassen van ‘emphasis’ (klemtonen/nadruk) en ‘prosody’ (is de spreker serieus of bv. ironisch)
 - het goed beschrijven van afbeeldingen.
+
 Na haar presentatie was ik eigenlijk vooral nog meer overtuigd geraakt van het belang van toegankelijkheid. Toen zij een aantal vooroordelen over blinde en slechtziende mensen naar voren haalde, betrapte ik me erop dat ik tijdens het maken van webpagina’s soms ook te makkelijk omging met mensen met een dergelijke beperking. Mensen met een visuele beperking zijn namelijk ook erg nieuwsgierig naar afbeeldingen op een website die als niet belangrijk genoeg worden gezien met een alt-tag te beschrijven. Een quote van haar is: “Images are always there for a reason, also blind people want to ‘see’ them, also if they look not important. We have to involve these people”. Denk bijvoorbeeld aan achtergrondafbeeldingen die er bijvoorbeeld zijn om de website mooi aan te kleden en een bepaald gevoel bij de gebruiker op te wekken.
+
 Ook andere dingen, zoals het ‘lang’ attribuut en het incorrect spellen van woorden en onjuist gebruik van interpunctie, zijn details die ik soms nog weleens vergeet bij het maken van webpagina’s. Nu ik ervaren heb hoe visueel beperkten met een website omgaan, zal ik in de toekomst nog meer proberen om op dit soort details te letten.
+
 Voor de rest blijf ik het noemenswaardig vinden dat Léonie, net als andere mensen met een beperking, zo goed met hun beperking om kunnen gaan. En ik vind het knap dat zij op een dusdanig vermakelijke manier ons als webdevelopers heeft bijgebracht op welke manieren wij rekening kunnen houden met deze mensen.
 
 #### Rian Rietveld (28 april 2022)
@@ -67,6 +85,7 @@ Rian Rietveld hield een gastcollege over ontwerpen voor een cognitieve stoornis 
 - Maak teksten zo leesbaar mogelijk d.m.v. gebruik van kopjes en niet te lange teksten.
 - Zorg dat mensen op een andere manier dan opbellen contact op kunnen nemen (opbellen kan eng zijn)
 - Geef de gebruikers de mogelijkheid om automatisch afspelende video’s of animaties stop te zetten.
+
 Met zoals bij eerdere weekly nerds, vond ik het ook hierbij lastig om er mijn mening over te vormen. Ik kan hierbij eigenlijk niks anders zeggen dan dat ik het erg belangrijk vind dat je als webdeveloper ook met deze zaken rekening houdt. Zelf heb ik een lichte vorm van autisme en heb ik ook zo mijn eigen behoeftes bij alledaagse bezigheden en in dit geval bij een website:
 - Ik houd van een duidelijke structuur en van voorspelbaarheid. Rian gaf aan dat bijvoorbeeld het gebruik van een stappenplan bij invulformulieren erg kon helpen. Bij het zien van zo’n stappenplan weet ik namelijk precies waar ik aan toe ben en dat geeft mij dan ook rust.
 - Ik heb soms moeite met (directe) sociale contacten met minder bekende mensen. Ik vond het daarom ook erg fijn dat Rian in haar presentatie aandacht besteedde aan het geven van alternatieve manieren van contact opnemen. Als ik met iemand contact moet opnemen, dan bel ik die persoon alleen op als er haast geboden is of als er geen andere optie voorhanden is.
@@ -74,18 +93,24 @@ Met zoals bij eerdere weekly nerds, vond ik het ook hierbij lastig om er mijn me
 ### Weekly Mingle
 
 #### Folkert-Jan, Built In Amsterdam (25 mei 2022)
-In deze weekly mingle gingen de studenten op bezoek bij Built In Amsterdam, waar Folkert-Jan een presentatie over het bedrijf gaf. Ze zijn gericht op e-commerce en maken moderne webshops voor hun (veelal internationale) klanten. Volgens Folkert-Jan is het de bedoeling dat mensen, op basis van het gevoel en het merk (branding) dat hun gemaakte websites overdragen, overgaan op het doen van aankopen. De websites worden dus helemaal op maat gemaakt voor de betreffende klant. Dit is bijvoorbeeld precies het tegenovergestelde van een website als Airbnb of Bol.com doordat deze webshops helemaal gestandaardiseerd zijn.
+Built In Amsterdam is een bedrijf dat is gericht op e-commerce. Het bedrijf maakt moderne webshops voor hun (veelal internationale) klanten. Volgens Folkert-Jan is het de bedoeling dat mensen, op basis van het gevoel en het merk (branding) dat hun gemaakte websites overdragen, overgaan op het doen van aankopen. De websites worden dus helemaal op maat gemaakt voor de betreffende klant. Dit is bijvoorbeeld precies het tegenovergestelde van een website als Airbnb of Bol.com doordat deze webshops helemaal gestandaardiseerd zijn.
+
 Bij Built In Amsterdam zijn hun webshops zijn erg gericht op het visuele aspect. De getoonde websites zien er modern uit en ze maken vooral veel gebruik van (side) scrolling animations. Soms laten ze zelfs op scroll gebaseerde ‘video’s’ zien. Dit zijn dan bijvoorbeeld foto’s die snel achter elkaar getoond en weggehaald worden, of dit zijn gifjes die on scroll worden afgespeeld of stopgezet worden. De websites worden gemaakt met HTML, CSS, JavaScript en soms met een framework zoals React. Voor het betalingssysteem wordt Shopify in combinaties met een paar andere diensten gebruikt.
+
 Wat ik hiervan kan zeggen is dat ik vooral het idee (dat klanten kopen op basis van gevoel en branding) achter de websites erg leuk bedacht vind, hoewel ik me afvraag of het een erg vernieuwend concept is. De getoonde websites/webshops vond ik ook erg gaaf om te zien, doordat je echt kon zien dat er veel werk achter zit. Ze zien er erg compleet uit en over elk detail is nagedacht. Als voorbeeld liet hij een animatie zien waarbij het leek alsof je langs een muur met schilderijen langsliep. De animatie verliep van links naar rechts en er zat ook een soort 3D effect in die lastiger is om na te maken dan het op voorhand leek. Ook vond ik het leuk om te zien hoe Folkert-Jan trots was om al hun werk met ons te kunnen delen.
+
 Doordat er in de presentatie vooral veel nadruk gelegd werd op de scrolling animations en doordat ik het toch erg gaaf vind hoe je ze kan gebruiken, heb ik er ook één van mijn artikelen over geschreven.
 
 #### Gavin Ligtharn, LabelA (1 juni 2022)
-In deze weekly mingle gingen de studenten op bezoek bij LabelA, waar Gavin Ligtharn een korte presentatie over het bedrijf en over hun werkzaamheden gaf. Zij ontwikkelen zowel Native als React Native applicaties. Ook maken zij Progressive Web applicaties. Ook hebben zij bij hun bedrijf een focus voor UI en UX design. De library Next.js gebruiken zij voor server-side rendering.
-Na de korte presentatie gaf hij met zijn Engels sprekende collega Emils een workshop over TypeScript. Hierin leerde hij ons hoe je datatypes vooraf kunt definiëren. Wanneer je vervolgens over een variabele in de code hovert, laat TypeScript zien welk datatype deze variabele heeft. En wanneer je je afvraagt welke functieparameters je mee moet geven, kun je over de functie heen hoveren waardoor deze alle parameternamen en datatypes in de juiste volgorde laat zien. Hierdoor ‘beschrijft’ de code als het ware zichzelf. Het veroorzaakt minder bugs en daardoor codeer je sneller. Verder vertelde Gavin uit dat bij vrijwel elk bedrijf TypeScript als standaard gebruikt wordt.
+Bij LabelA gaven Gavin Ligtharn en Emils (Engelstalig) een korte presentatie over het bedrijf en over hun werkzaamheden. Zij ontwikkelen zowel Native als React Native applicaties. Ook maken zij Progressive Web applicaties. Ook hebben zij bij hun bedrijf een focus voor UI en UX design. De library Next.js gebruiken zij voor server-side rendering.
+
+Na de presentatie gaf hij met zijn Engels sprekende collega Emils een workshop over TypeScript. Hierin leerde hij ons hoe je datatypes vooraf kunt definiëren. Wanneer je vervolgens over een variabele in de code hovert, laat TypeScript zien welk datatype deze variabele heeft. En wanneer je je afvraagt welke functieparameters je mee moet geven, kun je over de functie heen hoveren waardoor deze alle parameternamen en datatypes in de juiste volgorde laat zien. Hierdoor ‘beschrijft’ de code als het ware zichzelf. Het veroorzaakt minder bugs en daardoor codeer je sneller. Verder vertelde Gavin uit dat bij vrijwel elk bedrijf TypeScript als standaard gebruikt wordt.
+
 Allereerst kon ik het erg waarderen dat zij de moeite namen om voor ons een workshop te organiseren. Ook het onderwerp vind ik goed gekozen omdat ik er op school tot nu toe weinig over heb gehoord terwijl het toch bijna overal in de front-end industrie als standaard gebruikt wordt. De workshop ging over hoe je datatypes bij variabelen, objecten en bij functieparameters definieert. De opdrachten vond ik leuk om te doen, maar ik denk zelf niet dat ik in mijn eigen tijd bij hobbyprojecten met TypeScript aan de slag zal gaan, omdat het voor mij niet voelt alsof het veel meerwaarde heeft.
 
 #### Menno de Vries en Gijs Laarman, DEPT (8 juni 2022)
 In de derde weekly mingle kregen wij een presentatie van Menno en Gijs bij het bedrijf DEPT (digital agency). Zij zijn beide frontend developers en het bedrijf richt zich op alles wat te maken heeft met websites, apps, commercials en films. Het bedrijf DEPT heeft ook al eens een Webby award gewonnen.
+
 Menno en Gijs hebben, naast een introductie die eigenlijk iets meer leek op een lange commercial 😉, het grootste deel van de tijd verteld over de manier van werken die ze uitvoeren als ze een nieuwe klantopdracht krijgen. Die ging als volgt: 
 - Een nieuwe opdracht wordt door een strategieteam onderzocht op haalbaarheid en precieze eisen en wensen worden verkregen.
 - Bij een goedkeuring wordt het designteam (visual design en UX) ingeschakeld dat alvast een ontwerp in Figma maakt om doormiddel van een review te checken of dat echt is wat de klant wil.
@@ -93,7 +118,9 @@ Menno en Gijs hebben, naast een introductie die eigenlijk iets meer leek op een 
 - Dan begint het daadwerkelijke bouwen van de frontend. Tijdens het bouwen houdt iedereen zich aan bepaalde codestandaarden.
 - Na de frontend begint het backend team om de website functioneel te maken. Vaak willen klanten hun eigen content op de website kunnen beheren doormiddel van een CMS. Tussentijds wordt er ook getest en gereviewd met de klant.
 - Als laatste volgt de oplevering.
+
 Tussendoor lieten Menno en Gijs ons ook wat codevoorbeelden van klanten zien om ons te laten zien hoe zij op microniveau te werk gaan. Een van hun voorbeelden ging over de website van de Haagse Hogeschool. Achteraf wilden zij ons nog wat tips meegeven wat ik heel erg kon waarderen. De beste vond ik: “Laat bij stages alleen projecten zien waar je echt met trots over kan vertellen en laat niet teveel oude schoolprojecten zien.”.
+
 Zelf vond ik dit een hele leuke bijeenkomst en van de drie bezochte bedrijven de beste tot nu toe. Dat lag aan het ontvangst, de professionele maar toch gemoedelijke indruk die het bedrijf en de mensen achterlieten, de presentatie waarbij ik echt de indruk kreeg dat zij ons graag wilde hebben als potentiële collega’s en ook de gestructureerde werkwijze die ze uitvoeren. En ook de websites en commercials die zij als voorbeelden aan ons lieten zien zagen er gewoon prima uit. Dit is eigenlijk hetgeen wat ik erover kan vertellen, want in principe zijn de opzet van de weekly mingles allemaal wel een beetje hetzelfde: bedrijven die ons uitnodigen, een rondleiding geven en iets vertellen over de sfeer en de werkwijze van het bedrijf. Deze vond ik bij dit bedrijf zoals gezegd tot nu toe het beste.
 
 #### De Voorhoede (15 juni 2022)
