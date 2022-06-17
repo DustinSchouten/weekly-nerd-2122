@@ -1,5 +1,29 @@
 # Weekly Nerd
 
+## Table Of Contents
+- [Weekly Nerd](#weekly-nerd)
+  * [Vooraf](#vooraf)
+    + [Weekly Nerd](#weekly-nerd-1)
+      - [Cyd Stumpel (10 februari 2022)](#cyd-stumpel--10-februari-2022-)
+      - [Alvaro Montoro (16 februari 2022)](#alvaro-montoro--16-februari-2022-)
+      - [Fenna de Wilde (2 maart 2022)](#fenna-de-wilde--2-maart-2022-)
+      - [Krijn Hoetmer (23 maart 2022)](#krijn-hoetmer--23-maart-2022-)
+      - [Vitaly Friedman (30 maart 2022)](#vitaly-friedman--30-maart-2022-)
+      - [Chanel Mepchen (13 april 2022)](#chanel-mepchen--13-april-2022-)
+      - [Léonie Watson (20 april 2022)](#l-onie-watson--20-april-2022-)
+      - [Rian Rietveld (28 april 2022)](#rian-rietveld--28-april-2022-)
+    + [Weekly Mingle](#weekly-mingle)
+      - [Folkert-Jan, Built In Amsterdam (25 mei 2022)](#folkert-jan--built-in-amsterdam--25-mei-2022-)
+      - [Gavin Ligtharn, LabelA (1 juni 2022)](#gavin-ligtharn--labela--1-juni-2022-)
+      - [Menno de Vries en Gijs Laarman, DEPT (8 juni 2022)](#menno-de-vries-en-gijs-laarman--dept--8-juni-2022-)
+      - [De Voorhoede (15 juni 2022)](#de-voorhoede--15-juni-2022-)
+    + [Wetenschappelijke artikelen](#wetenschappelijke-artikelen)
+      - [Artikel 1: CSS scrolling animations](#artikel-1--css-scrolling-animations)
+      - [Artikel 2: Websockets met socket.io](#artikel-2--websockets-met-socketio)
+      - [Artikel 3: Hoe maak ik mijn websites beter zichtbaar voor zoekmachines?](#artikel-3--hoe-maak-ik-mijn-websites-beter-zichtbaar-voor-zoekmachines-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Vooraf
 Tijdens de minor Web Design and Development zijn er een aantal gastcolleges (weekly nerds) gehouden Voor het schrijven van een reflectie bij iedere weekly nerd heb ik eerst een korte introductie gegeven over de gastspreker en hetgeen er in de weekly nerd verteld is. Dit geeft voor mij de basis om er een goed onderbouwde reflectie over te schrijven. Ditzelfde principe heb ik bij de weekly mingles toegepast. Achteraan dit document staan de drie geschreven artikelen.
 
@@ -130,6 +154,7 @@ Zelf vond ik dit een hele leuke bijeenkomst en van de drie bezochte bedrijven de
 
 #### Artikel 1: CSS scrolling animations
 Tijdens het bouwen van websites kunnen CSS animations worden gebruikt om jouw websites voor bezoekers wat levendiger te maken. Naast dat het er mooier uitziet, houdt het ook meer potentiële klanten langer op jouw website, waardoor de kans groter is dat ze over zullen gaan tot aankopen. Een populair fenomeen bij webdesigners zijn scrolling animations. Dat zijn animaties die getriggerd worden op het moment dat de gebruiker door de website scrolt en het te animeren element zichtbaar (in de viewport) is. Om te laten zien hoe je CSS scrolling animations kunt toepassen, heb ik hieronder een eenvoudig voorbeeld gemaakt. Ik heb een stukje HTML, CSS en JavaScript gemaakt en ik zal per onderdeel uitleggen hoe de code werkt.
+
 Allereerst de HTML. Ik heb een h1 voor de titel en daarbinnen twee sections met per section drie divs gemaakt. Elke div staat voor een vierkantje dat geanimeerd kan worden. De classes shape1 t/m 6 zijn ervoor om ieder element een eigen stijl mee te geven. In dit geval geef ik ze allemaal een andere background-color en rotation mee. Met de class animate_on_scroll geef ik in de HTML aan dat ik wil dat dit element geanimeerd wordt. Zie de HTML hieronder:
 ```
 <html>
@@ -153,6 +178,7 @@ Allereerst de HTML. Ik heb een h1 voor de titel en daarbinnen twee sections met 
     </body>
 </html>
 ```
+
 Dan de CSS. De meeste stukken code zijn niet zo interessant. Het enige noemenswaardige in dit stuk is dat ik de class animate_on_scroll een transition heb meegegeven. Voor de rest heb ik alle shapes eigen waardes meegegeven die ‘on scroll’ worden getoond. Zie de CSS hieronder:
 ```
 * {
@@ -216,7 +242,9 @@ div {
     background-color: violet;
 }
 ```
+
 Nu het interessante gedeelte: de JavaScript. Ik heb een functie gemaakt, die wordt aangeroepen op het moment dat de gebruiker door de window heen scrolt (zie de eventlistener). Daarvoor heb ik een variabele all_animated_elements aangemaakt waarin ik alle elementen ophaal die ik wil laten animeren. Ook heb ik de hoogte van het scherm alvast opgehaald.
+
 Bij iedere functieaanroep wordt vervolgens voor ieder element apart gekeken of de top positie van het element lager is dan de hoogte van het volledige scherm. De top positie (element_top) is de afstand tussen het element en de bovenkant van de volledige website. De bottom positie (element_bottom) is hetzelfde als de top positie, maar dan de hoogte van het element daarbij opgeteld. Als de waarde van element_top kleiner is dan de hoogte van het scherm en de waarde van element_bottom groter is dan nul, dan is het element per definitie (gedeeltelijk) op het scherm zichtbaar. In dat geval geef ik de class animated mee. Als deze conditie false meegeeft, dan wordt de class weer verwijderd. Bij het meegeven van deze class wordt de CSS transition uitgevoerd. Zie de JavaScript hieronder:
 ```
 function animateElement() {
@@ -237,16 +265,20 @@ const total_animated_elements = document.querySelectorAll(".animate_on_scroll");
 const window_height = window.innerHeight;
 window.addEventListener("scroll", animateElement);
 ```
+
 Zoals je ziet is er dus helemaal niet zoveel JavaScript voor nodig om al een werkende scrolling animation te maken. Dit is natuurlijk best wel een basic voorbeeld, maar je zou natuurlijk allerlei gave features hieraan kunnen toevoegen door elke shape een totaal andere animatie mee te geven. Nog een vet idee is om sommige elementen steeds iets verder te bewegen wanneer de gebruiker door het element heen blijft scrollen.
 Een live demo is hier te vinden: https://codepen.io/dustinschouten/pen/RwQxjew
 
-Bron:
-https://alvarotrigo.com/blog/css-animations-scroll/#:~:text=What%20are%20CSS%20Scroll%20Animations,text%2C%20images%2C%20and%20videos.
+Bronnen:
+- https://alvarotrigo.com/blog/css-animations-scroll/#:~:text=What%20are%20CSS%20Scroll%20Animations,text%2C%20images%2C%20and%20videos.
 
 #### Artikel 2: Websockets met socket.io
 Socket.io is een JavaScript library die het mogelijk maakt om realtime informatie uit te wisselen tussen meerdere clients mogelijk maakt doormiddel van een gedeelde server. Het maakt, zoals de naam al suggereert, gebruik van websockets. Websocket is een netwerkprotocol dat communicatie over een TCP (wordt standaard gebruikt om gegevens over het internet of tussen apparaten onderling uit te wisselen) verbinding mogelijk maakt. Het websocket-protocol is niet hetzelfde als het HTTP-protocol. Bij HTTP wordt er vanuit een webbrowser een request wordt gedaan naar een webserver. Die ontvangt het request, stuurt een response naar de client terug en de client ontvangt het response. Hierna wordt de connectie weer afgebroken. Dit is het grote verschil met websockets waarbij de connectie in stand wordt gehouden, wanneer het ene apparaat een bericht verstuurt naar het andere apparaat. Deze connectie wordt pas afgebroken op het moment dat iemand de verbinding verbreekt.
+
 Socket.io is, zoals gezegd, bovenop het WebSocket-protocol gebouwd en heeft een extra voordeel: zodra de connectie onbedoeld toch afgebroken wordt, schakelt het over op HTTP long-polling. Bij HTTP long-polling probeert een server een verbinding met een client zo lang mogelijk in stand te houden, totdat de client weer verbinding maakt of er een time-outdrempel wordt bereikt.
+
 Maar wat kun je allemaal met socket.io en hoe zet je een project met socket.io op? Allereerst maak je met het commando npm init een nieuw project aan waarna je de package socket.io installeert met het commando npm install socket.io. Vervolgens zet je het raamwerk van je applicatie op:
+
 De HTML ziet er zo uit:
 ```
 <!DOCTYPE html>
@@ -263,12 +295,19 @@ De HTML ziet er zo uit:
   </body>
 </html>
 ```
+
 Zoals je ziet zet je de line <script src="/socket.io/socket.io.js"></script> onderaan in je body en boven je JavaScript bestand waar je alle client-side code gaat schrijven.
+
 Nu de JavaScript. Op de client definieer je voor iedere socketverbinding wat er gebeurt als je een bericht verstuurt en als je een bericht van een andere client via de server ontvangt.
+
 Met socket.emit(connectienaam, data); geef je aan naar welke socket-connnectie je wilt versturen en welke data je wilt versturen. Denk hierbij aan een bericht zoals je die ook in een chatprogramma verstuurt. Met socket.on(connectienaam, (data) => { functie }); geef je aan wat er moet gebeuren op de client wanneer je van de server een bericht vanuit een socket-connectie ontvangt.
+
 Als je socket.emit(connectienaam, data); gebruikt, verstuur je de data naar ALLE andere clients die op dat moment met de server verbonden zijn. Met alle clients bedoel ik dus ook naar jezelf. Wanneer je een bericht naar alle clients wilt sturen BEHALVE naar jezelf, gebruik je socket.broadcast.emit(connectienaam, data);.
+
 Wanneer je specifiek naar één of slechts een paar andere mensen een bericht wilt sturen, kun je gebruikmaken van zogenaamde rooms. Met socket.join(room) kan een client zich aansluiten bij een room.
+
 Nu is het tijd om te kijken naar een eenvoudig voorbeeld te kijken waarbij een gebruiker zich aanmeldt in een specifieke room en na zijn aanmelding daar een bericht over krijgt.
+
 Client side JavaScript:
 ```
 let socket = io()
@@ -284,6 +323,7 @@ socket.on('receivemessage', (data) => {
     console.log(name + ' is aangemeld in room ' + room + '!');
 });
 ```
+
 Server side JavaScript:
 ```
 const express = require('express')
@@ -304,17 +344,24 @@ http.listen(port, () => {
     console.log('listening on port ', port)
 })
 ```
+
 Op de client voert de gebruiker een naam en een room in waarna hij/zij wordt aangemeld doormiddel van de connectie ‘connected’. Op de server begin je altijd met io.on('connection', (socket) => { ..jouw sockets.. }); De socketverbinding ‘connection’ is eens standaard ingebouwde connection waarbinnen je je server-afhandelingen kan schrijven. De socket-verbinding ‘connected’ die op de client is gedefinieerd, moet ook op de server gedefinieerd worden zodat er op die manier gegevensuitwisseling tussen client en server kan plaatsvinden.  Met de line io.to(room).emit('receivemessage',{'name':name,'room':room}); op de server wordt er naar alle clients in de aangegeven room de ingevoerde naam en het bijbehorende roomnummer gestuurd. Op de client vervolgens met de line socket.on('receivemessage', (data) => { ..jouw code..}) deze data ontvangen. 
+
 In mijn voorbeeld wordt slechts een console.log gedaan maar in feite kun je hier allerlei gave functionaliteiten mee maken, zoals een chatprogramma. Je zou met socket.io zelfs super vette multiplayer games mee maken, door iedere vorm van interactie van een speler direct via een server naar de tegenstander te sturen. 
-Bron:
-https://socket.io/docs/v4/
-https://ably.com/topic/websockets-vs-http#:~:text=Unlike%20HTTP%2C%20where%20you%20have,request%2Fresponse%2Dbased%20methods.
+
+Bronnen:
+- https://socket.io/docs/v4/
+- https://ably.com/topic/websockets-vs-http#:~:text=Unlike%20HTTP%2C%20where%20you%20have,request%2Fresponse%2Dbased%20methods.
 
 #### Artikel 3: Hoe maak ik mijn websites beter zichtbaar voor zoekmachines?
 Iedereen die voor zijn/haar bedrijf een website/webshop heeft, wil dat zoveel mogelijk potentiële klanten deze website bezoeken. Daarom is het natuurlijk belangrijk dat jouw website zo hoog mogelijk in de zoekresultaten van zoekmachines zoals Google terechtkomt. Hierbij gaat het over Search engine optimization (SEO). Maar hoe kun je daar het beste voor zorgen? Op welke (technische) aspecten moet je letten bij het ontwikkelen van jouw website zodat zoekmachines jouw website makkelijker kunnen vinden? Daar ga ik in dit artikel op in.
+
 Maar eerst even iets over webcrawlers:
+
 Een website is pas vindbaar als die bezocht is door een zoekrobot en in de resultaten is opgenomen. Zoekmachines gebruiken zoekrobots (die heten ‘webcrawlers’) om online pagina’s op websites te bezoeken. Deze webcrawlers proberen te begrijpen welke informatie jouw webpagina's biedt voor bezoekers. Hiervoor kijkt zo'n webcrowler naar alle content op de website zoals head- en bodyteksten, afbeeldingen en links. Wanneer de webcrowler deze content heeft geanalyseerd, wordt er een algoritme toegepast om te bepalen voor welke zoekopdrachten de website een goed resultaat is. Ook wordt gekeken hoe goed het resultaat is in vergelijking met andere websites met soortgelijke content.
+
 Er worden aannames gemaakt dat zoekmachines op basis van meer dan 200 factoren (die allemaal een andere weging hebben) de afweging maken hoe goed een website scoort in de zoekresultaten.
+
 Dus hoe kun je jouw website zo SEO-proof mogelijk maken? Daar zijn een aantal manieren voor:
 - Schrijf teksten met keywords waar webcrawlers op kunnen zoeken. Keywords zijn de woorden waar mensen in zoekmachines zoals Google naar zoeken. Maar let op: gebruik bij het schrijven keywords niet te vaak en ook niet teveel keywords die als onbelangrijk worden ervaren. Google gaat ervan uit dat deze pagina’s juist weinig meerwaarde voor bezoekers hebben en zal deze pagina’s dus een lagere score toekennen. Denk er ook aan dat concurrenten deze truc ook weten en ook hun content voorzien van de belangrijkste keywords. Probeer daarom, om onderscheidend en relevant te blijven, ook keywords in jouw website op te nemen die iets minder populair maar wel erg nuttig zijn voor jouw bezoekers.
 - Zorg voor koppen en subkoppen om teksten te structureren. Gebruik één h1-tag en meerdere h2- en h3-koppen (en lagere tags) om jouw content structuur te geven.
@@ -325,16 +372,19 @@ Dus hoe kun je jouw website zo SEO-proof mogelijk maken? Daar zijn een aantal ma
 - Zorg voor een goede zogenaamde meta-description. Hier wordt gek genoeg niet door webcrawlers naar gekeken, maar dit is wel een belangrijk onderdeel omdat potentiele bezoekers deze informatie na de titel als eerste zien.
 - Zorg dat al jouw pagina’s minimaal 250 á 300 woorden bevatten.
 - Hoe langer gebruikers op jouw website blijven, hoe belangrijker Google jouw website gaat vinden en dus hoe hoger jij in de zoekresultaten gaat verschijnen. Om bezoekers langer op jouw website te houden moet jij hun in ieder geval voorzien van goed inhoudelijke content, maar ook het design is belangrijk. Een slecht of goedkoop ogende website zorgt voor minder vertrouwen bij jouw gebruikers. Probeer dus professioneel over te komen maar kijk ook of je met jouw designskills jouw bezoekers kunt verrassen.
+
 De tips hierboven waren met name gericht op de content. Maar SEO-crawlers kunnen jouw website ook hoger laten scoren door websites die technisch geoptimaliseerd zijn. Pas hiervoor de volgende optimalisaties toe:
 - Voeg een XML-sitemap toe. Dit is een bestand waarin alle url’s van jouw website onder elkaar staan.
 - Zorg voor een SSL-certificaat. Wanneer jouw website om persoonsgegevens vraagt is het sowieso verplicht om een SSL-certificaat te hebben sinds de komst van de Algemene Verordening Gegevensbescherming. Met een SSL-certificaat wordt al het dataverkeer op jouw website versleuteld voor cybercriminelen waardoor jij als websitebeheerder laat zien dat je waarde hecht aan de online veiligheid van jouw bezoeker. Daarom is zo’n certificaat ook goed voor je SEO-ranking.
 - Zorg ervoor dat jouw website qua laadtijd geen irritatie oplevert bij jouw bezoekers. Een hogere laadsnelheid zorgt voor een hogere SEO-ranking. Om jouw website sneller te laten laden kun je denken aan caching, het gebruik van niet te grote afbeeldingen en het minifyen van jouw HTML, CSS en JavaScript.
 - Zorg voor een robots.txt bestand in de rootmap van je website. Dit is het eerste bestand wat door webcrawlers wordt doorzocht. Het robots.txt bestand is een tekstbestand waarin instructies voor zoekmachines staan over hoe ze jouw website moeten ‘crawlen’. Hierin staat welke webpagina’s wel en niet moeten worden doorzocht. Pagina’s die niet doorzocht hoeven worden doordat ze geen positieve invloed op de SEO-score hebben zijn bijvoorbeeld inlog- en contactpagina’s.
+
 Zo zie je dat er een heleboel manieren zijn om jouw website of webshop hoger in de zoekresultaten van zoekmachines te laten verschijnen. Doordat Google de exacte lijst met criteria expres verborgen houdt, kan niet altijd worden vastgesteld of sommige methodes daadwerkelijk een hogere SEO-score zorgen. Maar in ieder geval zie je dat er een flinke ruimte voor verbetering is wanneer je meer bezoekers/klanten (zo lang mogelijk) op jouw website wilt krijgen.
+
 Bronnen:
-https://developers.google.com/search/docs/beginner/seo-starter-guide
-https://www.jimdo.com/nl/blog/website-advies/wat-is-seo/#:~:text=Zoekmachine%20optimalisatie%20(SEO)%20is%20je,over%20schrijft%20op%20je%20website.
-https://webnomad.nl/seo-tips-om-website-optimaliseren-google-handige-checklists/
-https://smartranking.nl/zoekmachine-optimalisatie/
-https://www.sidn.nl/4-redenen-om-een-ssl-certificaat-voor-je-website-te-gebruiken
-https://www.tekstmeester.nl/xml-sitemap/
+- https://developers.google.com/search/docs/beginner/seo-starter-guide
+- https://www.jimdo.com/nl/blog/website-advies/wat-is-seo/#:~:text=Zoekmachine%20optimalisatie%20(SEO)%20is%20je,over%20schrijft%20op%20je%20website.
+- https://webnomad.nl/seo-tips-om-website-optimaliseren-google-handige-checklists/
+- https://smartranking.nl/zoekmachine-optimalisatie/
+- https://www.sidn.nl/4-redenen-om-een-ssl-certificaat-voor-je-website-te-gebruiken
+- https://www.tekstmeester.nl/xml-sitemap/
