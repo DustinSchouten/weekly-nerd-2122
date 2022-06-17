@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 - [Vooraf](#vooraf)
-- [Weekly Nerd](#weekly-nerd)
+- [Weekly Nerd reflecties](#weekly-nerd-reflecties)
   * [Cyd Stumpel (10 februari 2022)](#cyd-stumpel-10-februari-2022)
   * [Alvaro Montoro (16 februari 2022)](#alvaro-montoro-16-februari-2022)
   * [Fenna de Wilde (2 maart 2022)](#fenna-de-wilde-2-maart-2022)
@@ -11,7 +11,7 @@
   * [Chanel Mepchen (13 april 2022)](#chanel-mepchen-13-april-2022)
   * [Léonie Watson (20 april 2022)](#leonie-watson-20-april-2022)
   * [Rian Rietveld (28 april 2022)](#rian-rietveld-28-april-2022)
-- [Weekly Mingle](#weekly-mingle)
+- [Weekly Mingle reflecties](#weekly-mingle-reflecties)
   * [Folkert-Jan, Built In Amsterdam (25 mei 2022)](#folkert-jan-built-in-amsterdam-25-mei-2022)
   * [Gavin Ligtharn, LabelA (1 juni 2022)](#gavin-ligtharn-labela-1-juni-2022)
   * [Menno de Vries en Gijs Laarman, DEPT (8 juni 2022)](#menno-de-vries-en-gijs-laarman-dept-8-juni-2022)
@@ -24,7 +24,7 @@
 ## Vooraf
 Tijdens de minor Web Design and Development zijn er een aantal gastcolleges (weekly nerds) gehouden Voor het schrijven van een reflectie bij iedere weekly nerd heb ik eerst een korte introductie gegeven over de gastspreker en hetgeen er in de weekly nerd verteld is. Dit geeft voor mij de basis om er een goed onderbouwde reflectie over te schrijven. Ditzelfde principe heb ik bij de weekly mingles toegepast. Achteraan dit document staan de drie geschreven artikelen.
 
-## Weekly Nerd
+## Weekly Nerd reflecties
 
 ### Cyd Stumpel (10 februari 2022)
 Cyd vertelde in haar presentatie welke werkzaamheden ze bij haar bedrijf verricht. Als frontender web development bouwt ze websites en andere producten voor bedrijven. Hierbij liet zij deze websites en stukken code zien. Ook vertelde ze dat ze veel overlegt met designers omdat ze niet de websites zelf ontwerpt. Deze werkzaamheden spreken mij erg aan, omdat ik zelf ook erg houd van web development en de logica die bij het coderen komt kijken. Alleen het designaspect spreekt mij iets minder aan doordat ik geen ervaring heb met photoshopprogramma’s en het liefst niet aan een bepaald design gebonden zit. Wat mij dan wel weer aansprak was het feit dat je grotendeels zelf mocht bepalen hoe de websites eruit komen te zien en welke interacties er komen na gebruikersonderzoek. Ik vind het namelijk erg leuk om erachter te komen waar de eindgebruikers tevreden van worden en om deze bepaalde functionaliteiten vervolgens te kunnen uitprogrammeren.
@@ -111,7 +111,7 @@ Met zoals bij eerdere weekly nerds, vond ik het ook hierbij lastig om er mijn me
 - Ik houd van een duidelijke structuur en van voorspelbaarheid. Rian gaf aan dat bijvoorbeeld het gebruik van een stappenplan bij invulformulieren erg kon helpen. Bij het zien van zo’n stappenplan weet ik namelijk precies waar ik aan toe ben en dat geeft mij dan ook rust.
 - Ik heb soms moeite met (directe) sociale contacten met minder bekende mensen. Ik vond het daarom ook erg fijn dat Rian in haar presentatie aandacht besteedde aan het geven van alternatieve manieren van contact opnemen. Als ik met iemand contact moet opnemen, dan bel ik die persoon alleen op als er haast geboden is of als er geen andere optie voorhanden is.
 
-## Weekly Mingle
+## Weekly Mingle reflecties
 
 ### Folkert-Jan, Built In Amsterdam (25 mei 2022)
 Built In Amsterdam is een bedrijf dat is gericht op e-commerce. Het bedrijf maakt moderne webshops voor hun (veelal internationale) klanten. Volgens Folkert-Jan is het de bedoeling dat mensen, op basis van het gevoel en het merk (branding) dat hun gemaakte websites overdragen, overgaan op het doen van aankopen. De websites worden dus helemaal op maat gemaakt voor de betreffende klant. Dit is bijvoorbeeld precies het tegenovergestelde van een website als Airbnb of Bol.com doordat deze webshops helemaal gestandaardiseerd zijn.
