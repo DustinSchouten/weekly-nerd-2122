@@ -86,7 +86,7 @@ Ik vind het vooral ontzettend knap dat je in een project, waarin je samenwerkt m
 
 De reden waarom het mij erg moeilijk lijkt om met deze voor mij veelal onbekende tools om te gaan is dat ik vaak merk dat mijn ‘programmeervrijheid’ een beetje wordt ontnomen als ik geforceerd allerlei frameworks en buildtools moet gebruiken om in te programmeren. Ook lijkt het me niet echt prettig dat mijn geschreven code door allerlei converters wordt gehaald. Ondanks deze aversie tegen het overmatig gebruik van al deze tools, heb ik er wel altijd van gehouden om dit soort nieuwe (web-)technieken te leren. Uiteindelijk vind ik het namelijk het allerleukste om stuk voor stuk nieuwe technieken bij hobbyprojecten in te zetten.
 
-### Léonie Watson (20 april 2022)
+### Leonie Watson (20 april 2022)
 Léonie, die als accessibility engineer bij het W3C werkt, is blind en in haar presentatie leerde zij ons hoe wij als webdevelopers rekening konden houden met mensen die niet kunnen zien. De vraag waar zij in haar presentatie zo uitgebreid mogelijk antwoord op gaf is: “What is a pleasurable user experience for people who cannot see?”.
 
 Léonie maakt, net zoals andere blinde en slechtziende mensen, bij websites gebruik van een screen reader. In haar presentatie liet ze ons een aantal geluidsfragmenten horen. Op die manier demonstreerde ze hoe het gebruik van bepaalde webtechnieken invloed heeft op de manier waarop een screenreader de content op een website voorleest. Denk hierbij o.a. aan:
